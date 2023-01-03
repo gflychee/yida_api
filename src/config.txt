@@ -1,0 +1,5 @@
+yida_config yd.cfg
+appid client_SJQY_1.0.0
+authcode YHQHYHQHYHQHYHQH
+userid 10000066
+pwd test1234
